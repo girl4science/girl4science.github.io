@@ -10,15 +10,16 @@ p{
 }
 .photo{
 	width:100%;
-	background: gray;
 }
 .image{
 	width:100%;
-	background: gray;
 }
 body{
-	background: gray;
+	background: #333f42;
 }
 .pertab{
-	width: 100%;
+	width: 90%;
+}
+.nobel{
+	width: 95%;
 }
